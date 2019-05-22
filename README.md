@@ -1,2 +1,2 @@
-# git-test
+# git-project
 practice for devops
